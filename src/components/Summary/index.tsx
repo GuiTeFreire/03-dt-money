@@ -15,7 +15,6 @@ export function Summary() {
         </header>
         <strong>{priceFormatter.format(summary.income)}</strong>
       </SummaryCard>
-
       <SummaryCard>
         <header>
           <span>Saídas</span>
@@ -23,7 +22,6 @@ export function Summary() {
         </header>
         <strong>{priceFormatter.format(summary.outcome)}</strong>
       </SummaryCard>
-
       <SummaryCard variant="green">
         <header>
           <span>Total</span>
