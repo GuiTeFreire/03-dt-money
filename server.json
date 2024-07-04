@@ -6,15 +6,23 @@
             "type": "income",
             "category": "Venda",
             "price": 14000,
-            "createdAt": "2024-07-03T15:10:355Z"
+            "createdAt": "2024-07-03T15:10:35.505Z"
         },
         {
             "id": 2,
             "description": "Hamburguer",
             "type": "outcome",
             "category": "Alimentação",
-            "price": 40,
-            "createdAt": "2024-07-03T15:15:355Z"
+            "price": 60,
+            "createdAt": "2024-07-03T15:15:35.505Z"
+        },
+        {
+            "id": 3,
+            "description": "Rocketseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1980,
+            "createdAt": "2024-07-04T14:08:35.505Z"
         }
     ]
 }
