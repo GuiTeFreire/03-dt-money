@@ -19,6 +19,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.52.1",
+    "react-query": "^3.39.3",
     "styled-components": "^6.1.11",
     "zod": "^3.23.8"
   },
@@ -33,7 +34,7 @@
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
-    "json-server": "^1.0.0-beta.1",
+    "json-server": "^0.17.4",
     "typescript": "^5.2.2",
     "vite": "^5.3.1"
   }
